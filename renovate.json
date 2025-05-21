@@ -1,4 +1,5 @@
 {
+  "baseBranches": ["main"],
   "packageRules": [
     {
       "matchBaseBranches": ["main"],
