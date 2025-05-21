@@ -1,7 +1,9 @@
-"packageRules": [
-  {
-    "matchBaseBranches": ["main"],
-    "groupName": ["combined"],
-    "separateMajorMinor": false
-  }
-]
+{
+  "packageRules": [
+    {
+      "matchBaseBranches": ["main"],
+      "groupName": ["combined"],
+      "separateMajorMinor": false
+    }
+  ]
+}
