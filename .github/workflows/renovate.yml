@@ -12,3 +12,5 @@ jobs:
         with:
           token: ${{ secrets.RENOVATE_TOKEN }}
           configurationFile: renovate-config.js
+        env:
+          LOG_LEVEL: 'debug'
